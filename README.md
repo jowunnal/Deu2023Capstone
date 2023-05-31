@@ -67,3 +67,6 @@ GPS정보와 방위정보를 이용하여 시각장애인이 원하는 목적지
 > **공경일 ([kyungil9](https://github.com/kyungil9 "github link"))**
 
 
+자세한 설명은 [깃블로그](https://jowunnal.github.io/projects/%EC%BA%A1%EC%8A%A4%ED%86%A4_2023_%ED%9A%8C%EA%B3%A0/ "blog link")에 있습니다.
+
+
